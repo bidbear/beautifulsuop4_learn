@@ -1,0 +1,14 @@
+beautifulsoup4==4.6.0
+blessings==1.6
+bs4==0.0.1
+certifi==2018.11.29
+chardet==3.0.4
+curtsies==0.2.11
+idna==2.8
+lxml==4.3.1
+Pygments==2.2.0
+requests==2.21.0
+six==1.11.0
+soupsieve==1.8
+urllib3==1.24.1
+wcwidth==0.1.7
