@@ -18,6 +18,7 @@ print(suop.h3.string) #获取标签的内容
 print(suop.p) #获取html中第一个再出现的P标签
 print(suop.find_all('p')) #获取所有p标签的列表
 print(suop.find(id='txz_dlq'))#获取指定ID值的标签数据
+print(suop.find('div',id='txz_dlq'))#获取指定标签的指定ID值的数据
 
 # for link in suop.find_all('a'): 
 #     print(link.get('href')) #从文档中找到所有<a>标签的链接
